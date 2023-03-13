@@ -1,0 +1,9 @@
+name: MyPetPlugin
+version: '${project.version}'
+main: me.mowlcoder.mypetplugin.MyPetPlugin
+api-version: 1.19
+authors: [ MowlCoder ]
+
+commands:
+  pet:
+    usage: /pet <action>

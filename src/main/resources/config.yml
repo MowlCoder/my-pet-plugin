@@ -1,0 +1,14 @@
+messages:
+  commandUseOnlyPlayer: '&cКоманду может использовать только игрок'
+  notEnterPetName: '&cВы не ввели имя питомца'
+  notValidMaterial: '&cНеверный материал'
+  notValidColor: '&cНеверный цвет'
+  notHavePet: '&cУ вас нет питомца'
+  alreadyHavePet: '&cУ вас уже есть питомец'
+  setNameSuccess: '&aИмя питомца установлено успешно'
+  setBlockSuccess: '&aБлок питомца установлен успешно'
+  setColorSuccess: '&aЦвет питомца установлен успешно'
+
+pet:
+  defaultTitle: 'Питомец %player_name%'
+  defaultColor: 'GREEN'
